@@ -5,7 +5,8 @@
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  color: #ddd;
+  background-color: rgb(26, 26, 26);
 }
 .navbar {
   padding: 20px;
@@ -63,7 +64,7 @@
   margin: 20px 0;
 }
 .task-details button {
-  background: #f1356d;
+  background-color: #f1356d;
   color: #fff;
   border: 0;
   padding: 8px;
